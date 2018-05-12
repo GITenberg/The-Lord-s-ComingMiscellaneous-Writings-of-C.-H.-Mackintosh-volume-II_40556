@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39129
     wikipedia: http://en.wikipedia.org/wiki/Charles_Henry_Mackintosh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40556#The-Lord-s-ComingMiscellaneous-Writings-of-C.-H.-Mackintosh-volume-II
 gutenberg_issued: '2012-08-22'
 gutenberg_type: Text
 identifiers:
